@@ -1,3 +1,3 @@
-# svg-success-fail-warning-sign
+# svg success,fail,warning Animation
 SVG Animation for Success, Fail, Warning
 
