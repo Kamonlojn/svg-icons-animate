@@ -1,0 +1,30 @@
+{
+  "name": "svg-icons-animate",
+  "homepage": "https://github.com/Kamonlojn/svg-icons-animate",
+  "authors": [
+    "Kamonlojn <kamonlojn@gmail.com>"
+  ],
+  "description": "SVG icons animate",
+  "main": "svg-icons-animate.css",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "SVG",
+    "icons",
+    "animate",
+    "success",
+    "fail",
+    "error",
+    "warning",
+    "confirm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
