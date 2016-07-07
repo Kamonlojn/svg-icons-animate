@@ -11,7 +11,12 @@
 ## Install
 ###### Bower
 ```
-Please wait...
+bower install svg-icons-animate
+```
+
+use `--save` to add it in bower.json
+```
+bower install --save svg-icons-animate
 ```
 
 ## How to use
